@@ -12,7 +12,7 @@ forma controlada, classificar os riscos e propor medidas de hardening.
 2. Dispositivo analisado
 Versão de laboratório simulada: ESP32 DevKit com sensor DHT22 (GPIO 15),
 firmware educacional NexaSense v0.9.3-debug (Arduino), comunicação Wi-Fi e MQTT.
-Projeto de simulação no Wokwi: <link do projeto Wokwi>
+Projeto de simulação no Wokwi: <https://wokwi.com/projects/481389965859119105>
 
  3. Limites e escopo
 - Todo o trabalho foi feito em simulador (Wokwi, com verificação do código no
@@ -115,7 +115,7 @@ Detalhes: `remediation/hardening-plan.md`
 Os comandos exatos estão em `firmware/analysis-notes.md`.
 
  13. Vídeo de demonstração
-<link do vídeo (YouTube, não listado)>
+<https://youtu.be/zX9LVlkDobQ>
 
 ## 14. Referências
 OWASP IoT Security Testing Guide · NIST IR 8259A · ETSI EN 303 645 ·
